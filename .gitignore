@@ -45,6 +45,7 @@ frontend/next-env.d.ts
 
 # environment
 backend/.env
+backend/__pycache__/
 
 # root
 
